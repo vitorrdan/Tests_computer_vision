@@ -1,5 +1,4 @@
 #Etapa 1 OpenCV: Capturar camera, manipular frames
-
 import cv2
 
 cap = cv2.VideoCapture(0)
